@@ -1,0 +1,2 @@
+# Evolve More Strings
+While the code doesn't vary that much from the initial version (Evolve A String), I wanted to make a separate repository to track my progress a bit. This genetic algorithm is more thorough and implements crossover, a genepool, and mutation.

@@ -2,7 +2,7 @@
 import random
 import string
 
-SIZE = 20
+SIZE = 30
 TARGET = 'Hello World'
 pool = []
 
